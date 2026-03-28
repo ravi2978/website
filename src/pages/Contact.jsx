@@ -47,7 +47,7 @@ export default function Contact() {
                   </div>
                   <h3 className="text-xl font-bold text-green-800 mb-2">Message Received!</h3>
                   <p className="text-green-700 text-sm">
-                    Thank you for contacting JWLegal. Attorney Lee will review your message and respond within one business day. If you have an urgent matter, please call us at (443) 545-2121.
+                    Thank you for contacting JWLegal. Attorney Lee will review your message and respond within one business day. If you have an urgent matter, please call us at (410) 528-9300.
                   </p>
                 </div>
               ) : (
@@ -84,7 +84,7 @@ export default function Contact() {
                       <input
                         type="tel" name="phone" value={form.phone} onChange={handleChange}
                         className="w-full border border-gray-200 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-gold-500/30 focus:border-gold-500 transition-colors"
-                        placeholder="(443) 555-1234"
+                        placeholder="(410) 555-1234"
                       />
                     </div>
                   </div>
@@ -157,7 +157,7 @@ export default function Contact() {
               {/* Contact cards */}
               {[
                 { icon: MapPin, label: 'Office Location', value: 'Columbia, Maryland 21044', sub: 'Serving clients throughout MD' },
-                { icon: Phone, label: 'Phone', value: '(443) 545-2121', href: 'tel:4435452121' },
+                { icon: Phone, label: 'Phone', value: '(410) 528-9300', href: 'tel:4105289300' },
                 { icon: Mail, label: 'Email', value: 'info@jwlegal.com', href: 'mailto:info@jwlegal.com' },
               ].map(item => (
                 <div key={item.label} className="flex items-start gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">

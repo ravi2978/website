@@ -37,7 +37,7 @@ export default function ContactCTA({
             <ArrowRight className="w-4 h-4" />
           </Link>
           <a
-            href="tel:4435452121"
+            href="tel:4105289300"
             className={`inline-flex items-center gap-2 font-bold px-8 py-4 rounded-lg border-2 transition-all duration-200 text-base ${
               dark
                 ? 'border-white text-white hover:bg-white hover:text-navy-700'
@@ -45,7 +45,7 @@ export default function ContactCTA({
             }`}
           >
             <Phone className="w-5 h-5" />
-            (443) 545-2121
+            (410) 528-9300
           </a>
         </div>
         <p className={`mt-6 text-sm ${dark ? 'text-navy-400' : 'text-gray-400'}`}>

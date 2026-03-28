@@ -40,9 +40,9 @@ export default function DetainedIndividuals() {
             <AlertCircle className="w-5 h-5 flex-shrink-0" />
             <span className="font-semibold text-sm">Has a family member been detained by ICE? Time is critical.</span>
           </div>
-          <a href="tel:4435452121" className="inline-flex items-center gap-2 bg-white text-red-600 font-bold px-4 py-2 rounded-lg text-sm hover:bg-red-50 transition-colors flex-shrink-0">
+          <a href="tel:4105289300" className="inline-flex items-center gap-2 bg-white text-red-600 font-bold px-4 py-2 rounded-lg text-sm hover:bg-red-50 transition-colors flex-shrink-0">
             <Phone className="w-4 h-4" />
-            Call Now: (443) 545-2121
+            Call Now: (410) 528-9300
           </a>
         </div>
       </div>

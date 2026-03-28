@@ -170,9 +170,9 @@ export default function Navbar() {
       <div className="bg-navy-700 text-white py-1.5">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between text-sm">
           <span className="hidden sm:block text-navy-200 text-xs">Serving clients throughout Maryland</span>
-          <a href="tel:4435452121" className="flex items-center gap-1.5 font-semibold text-gold-400 hover:text-gold-300 transition-colors ml-auto">
+          <a href="tel:4105289300" className="flex items-center gap-1.5 font-semibold text-gold-400 hover:text-gold-300 transition-colors ml-auto">
             <Phone className="w-3.5 h-3.5" />
-            (443) 545-2121
+            (410) 528-9300
           </a>
         </div>
       </div>

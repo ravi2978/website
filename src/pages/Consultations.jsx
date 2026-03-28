@@ -112,8 +112,8 @@ export default function Consultations() {
                   <span className="font-bold text-navy-700">Prefer to call?</span>
                 </div>
                 <p className="text-gray-600 text-sm mb-2">Reach us directly at:</p>
-                <a href="tel:4435452121" className="text-gold-600 font-bold text-lg hover:text-gold-700 transition-colors">
-                  (443) 545-2121
+                <a href="tel:4105289300" className="text-gold-600 font-bold text-lg hover:text-gold-700 transition-colors">
+                  (410) 528-9300
                 </a>
                 <p className="text-gray-400 text-xs mt-1">Monday–Friday, 9:00 AM – 5:00 PM</p>
               </div>
@@ -134,7 +134,7 @@ export default function Consultations() {
                     </div>
                     <h3 className="text-xl font-bold text-green-800 mb-2">Request Received!</h3>
                     <p className="text-gray-600 text-sm">
-                      We'll contact you within one business day to confirm your consultation. For urgent matters, call (443) 545-2121.
+                      We'll contact you within one business day to confirm your consultation. For urgent matters, call (410) 528-9300.
                     </p>
                   </div>
                 ) : (
@@ -163,7 +163,7 @@ export default function Consultations() {
                       <label className="block text-sm font-semibold text-navy-700 mb-1.5">Phone <span className="text-red-500">*</span></label>
                       <input type="tel" name="phone" required value={form.phone} onChange={handleChange}
                         className="w-full border border-gray-200 rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-gold-500/30 focus:border-gold-500"
-                        placeholder="(443) 555-1234" />
+                        placeholder="(410) 555-1234" />
                     </div>
                     <div>
                       <label className="block text-sm font-semibold text-navy-700 mb-1.5">Practice Area <span className="text-red-500">*</span></label>

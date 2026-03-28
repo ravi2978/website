@@ -47,9 +47,9 @@ export default function ReferringAttorneys() {
               </p>
 
               <div className="flex flex-col gap-3">
-                <a href="tel:4435452121" className="inline-flex items-center gap-3 text-navy-700 hover:text-gold-600 font-semibold transition-colors">
+                <a href="tel:4105289300" className="inline-flex items-center gap-3 text-navy-700 hover:text-gold-600 font-semibold transition-colors">
                   <Phone className="w-5 h-5 text-gold-500" />
-                  (443) 545-2121 — Direct Attorney Line
+                  (410) 528-9300 — Direct Attorney Line
                 </a>
                 <a href="mailto:info@jwlegal.com" className="inline-flex items-center gap-3 text-navy-700 hover:text-gold-600 font-semibold transition-colors">
                   <Mail className="w-5 h-5 text-gold-500" />
